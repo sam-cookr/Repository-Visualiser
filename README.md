@@ -4,6 +4,12 @@
 
 Repository Biome is an interactive visualization tool that represents GitHub repositories as organic, fractal tree structures. Each tree's appearance is uniquely determined by the repository's characteristics—commit history, size, activity, and programming language—creating a beautiful, data-driven botanical garden of code.
 
+A well maintained repository will have a larger and denser tree:
+<img width="1470" height="827" alt="image" src="https://github.com/user-attachments/assets/5c392e76-1253-47c4-ad4b-452dbd7fa941" />
+
+A poorly well maintained will have a smaller and less dense tree:
+<img width="1470" height="827" alt="image" src="https://github.com/user-attachments/assets/f149822d-5932-4cf5-b237-2281ec50db0f" />
+
 ---
 
 ## ✨ Features
